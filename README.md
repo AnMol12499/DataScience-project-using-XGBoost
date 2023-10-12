@@ -82,6 +82,9 @@ The following screen-shots show that we set the weight on the positive sample to
 Awesome job following along! Now go try and take this further or apply it to a different use case!
 
 
+## Links
+
+* [Data Set](https://archive.ics.uci.edu/ml/datasets/Bank+Marketing)
 
 
 
