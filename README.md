@@ -21,10 +21,6 @@ This Code Pattern will walk the user through the following conceptual steps:
 
 We have notebook 'predict_bank_cd_subs_by_xgboost_clf_for_imbalance_dataset.ipynb' for this.
 
-## Flow
-
-![](doc/source/images/architecture.png)
-
 ## Featured technologies
 
 * Data Science, Python, XGBoost, Scikit Learn, Pandas, Matplotlib, SeaBorn
